@@ -1,0 +1,65 @@
+h1{
+    font-family: monospace;
+    font-size: 30px;
+    font-style: normal;
+    color:red;
+    text-transform:capitalize;
+}
+d1{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-style: italic;
+    color:gray;
+    text-transform:lowercase;
+}
+d2{
+    font-family: cursive;
+    font-size: 80%;
+    font-style: normal;
+    color:blueviolet;
+    text-transform:uppercase;
+}
+d3{
+    font-family: fantasy;
+    font-size: 30px;
+    font-style: italic;
+    color:palegreen;
+    text-transform:uppercase;
+}
+p1{
+    font-family: monospace;
+    font-size: 12px;
+    font-style: normal;
+    color:orange;
+    text-transform:capitalize;
+}
+p2{
+    font-family: monospace;
+    font-size: 30px;
+    font-style: italic;
+    color:green;
+    text-transform:lowercase;
+}
+p3{
+    font-family: sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    color:yellow;
+    text-transform:capitalize;
+}
+p4{
+    font-family: cursive;
+    font-size: 20px;
+    font-style: italic;
+    color:purple;
+    text-transform:lowercase;
+}
+p5{
+    font-family: fantasy;
+    font-size: 12px;
+    font-style: normal;
+    color:blue;
+    text-transform:uppercase;
+    
+
+}
